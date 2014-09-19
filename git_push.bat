@@ -1,7 +1,7 @@
 @echo off
 setlocal
 
-git pull
+git pull origin gh-pages
 git add . -A
 set str=
 set /p str=Enter Commit Message:
