@@ -1,8 +1,8 @@
 # Site settings
 title: kalkin7
-email: your_email@example.com
+email: kalkin7@gmail.com
 author: Karl Hong
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+description: "나의 테스트용 블로그"
 baseurl: ""
 url: "http://www.kkwiki.tk/"
 google_analytics:
