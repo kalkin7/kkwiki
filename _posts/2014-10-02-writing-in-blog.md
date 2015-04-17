@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      블로그에 글쓰기
-date:       2014-10-02 21:24:29
+date:       2014-10-02
 summary:    요즘 블로그에 글쓰는 게 두렵다.
 categories: blog
 ---
