@@ -1,163 +1,70 @@
-# Centrarium
+# Jekyll with a tiny footprint
 
-A simple yet classy theme for your Jekyll website or blog. Customizable to fit your style or brand.
+<svg version="1.2" baseProfile="tiny" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" width="40px" height="40px" viewBox="-19.9 821.4 40 40" xml:space="preserve">
+<g>
+	<path fill="#010002" d="M11.1,827.9c-2.9-1-5.8,0.9-6.7,3.7c-1,3.1,0.6,7-0.1,8.9c-1,2.7-3.9,6.8,0.1,9.6c3.6,2.5,6.3-1.5,8.2-5
+		c1.5-2.7,3-5.5,3.6-8.4C16.6,834.4,16.8,829.9,11.1,827.9z"/>
+	<path fill="#010002" d="M5.6,828.1c1.4,0,1.9-1.3,1.9-2.8c0-1.6-1.1-2.8-2.5-2.8c-1.4,0-2.5,1.3-2.5,2.8
+		C2.4,826.8,4.2,828.1,5.6,828.1z"/>
+	<path fill="#010002" d="M10.1,826.9c1.2,0,2.1-1.9,2.1-3.4c0-1.5-0.9-2.1-2.1-2.1c-1.2,0-2.1,0.6-2.1,2.1
+		C8,825,8.9,826.9,10.1,826.9z"/>
+	<path fill="#010002" d="M16,826.7c0.7-0.9,0.3-1.9-0.4-2.6c-0.7-0.7-1.6-0.9-2.2,0c-0.7,0.9-0.9,2.7-0.1,3.4
+		C13.9,828.3,15.3,827.7,16,826.7z"/>
+	<path fill="#010002" d="M18.5,827.4c-0.6-0.8-1.3-1.1-2.1-0.3c-0.7,0.8-1.1,2.3-0.5,3.1c0.6,0.8,2,0.4,2.7-0.3
+		C19.3,829.1,19.1,828.2,18.5,827.4z"/>
+	<path fill="#010002" d="M20,831.9c-0.2-0.8-0.7-1.3-1.4-1c-0.7,0.3-1.5,1.3-1.2,2c0.2,0.8,1.3,1.1,2,0.8
+		C20.1,833.4,20.2,832.7,20,831.9z"/>
+	<path fill="#010002" d="M-4.1,842.2c-1-2.8-3.8-4.7-6.7-3.7c-5.7,1.9-5.5,6.5-5,8.8c0.6,2.9,2.1,5.7,3.6,8.4c1.9,3.6,4.5,7.6,8.2,5
+		c3.9-2.7,1.1-6.9,0.1-9.6C-4.8,849.2-3.1,845.2-4.1,842.2z"/>
+	<path fill="#010002" d="M-4.6,833c-1.4,0-2.5,1.3-2.5,2.8s0.5,2.8,1.9,2.8c1.4,0,3.2-1.3,3.2-2.8C-2.1,834.2-3.2,833-4.6,833z"/>
+	<path fill="#010002" d="M-9.8,837.4c1.2,0,2.1-1.9,2.1-3.4c0-1.5-0.9-2.1-2.1-2.1c-1.2,0-2.1,0.6-2.1,2.1
+		C-11.9,835.5-11,837.4-9.8,837.4z"/>
+	<path fill="#010002" d="M-12.9,838.1c0.7-0.7,0.5-2.4-0.1-3.4c-0.7-0.9-1.5-0.7-2.2,0c-0.7,0.7-1.1,1.6-0.4,2.6
+		C-15.1,838.2-13.7,838.8-12.9,838.1z"/>
+	<path fill="#010002" d="M-16.2,837.6c-0.7-0.8-1.5-0.4-2.1,0.3c-0.6,0.8-0.8,1.7-0.1,2.4c0.7,0.8,2.1,1.1,2.7,0.3
+		C-15.1,840-15.5,838.4-16.2,837.6z"/>
+	<path fill="#010002" d="M-18.4,841.4c-0.7-0.3-1.2,0.2-1.4,1c-0.2,0.8-0.1,1.5,0.6,1.8c0.7,0.3,1.8,0,2-0.8
+		C-16.9,842.7-17.6,841.7-18.4,841.4z"/>
+</g>
+</svg>
 
-Built with these awesome libraries: 
-* [Bourbon][bourbon] 
-* [Neat][neat]
-* [Bitters][bitters]
-* [Refills][refills]
-* [Font Awesome][fontawesome]
-* [HighlightJS][highlightjs]
-* [Lightbox][lightbox]
 
-Here's a [demo](http://bencentra.com/centrarium). It also works on [GitHub Pages](http://bencentra.github.io/centrarium/). I also use it for [my own website][bencentra].
+[Demo](http://rpiai.com/jekyll-tinyfeet/)
 
-Inspired by dirkfabisch's [Mediator](https://github.com/dirkfabisch/mediator) theme, which I previously used for my own blog, as well as [Type Theme](http://rohanchandra.github.io/type-theme/).
-
-Cover image by Chris M. Morris ([flickr][cover]).
 
 ## Features
 
-This theme comes with a number of features, including:
-* Easily customizable fonts and colors
-* Cover images for your homepage and blog posts
-* Pagination enabled by default
-* Archiving of posts by categories and tags
-* Disqus integration for post comments
-* Lightbox for viewing full-screen photos and albums
-* Google Analytics with custom page name tracking
-* Social media integration (Twitter, Facebook, LinkedIn, GitHub, and more)
+- Very small footprint for landing page (CSS+JS < 10 KB uncompressed)
+- SVG Icons for fast loading (< 4 KB uncompressed)
+- Dynamic description loading on main page
+- Fixed navbar
+- SEO and Opengraph
+- Tag page and tags underneath each post title
+- Optional Disqus comments on posts
+- Optional Google analytics
 
-## Installation
+## Footprint statistics for landing page
 
-First and foremost, install Jekyll, Jekyll Archives, and Jekyll Sitemap: `gem install jekyll jekyll-archives jekyll-sitemap`
+| Page        | Transfered           |
+| ------------- |:-------------:|
+| Typical page   | ~3.1 KB |
+| Main CSS + JS   | ~2.2 KB |
+| Analytics (optional)   | ~11.2 KB |
+| Disqus (optional)   | ~300 KB |
 
-If you're just getting started with Jekyll, you can use this repository as a starting point for your own site. Just [download this project](https://github.com/bencentra/centrarium/archive/master.zip) and add all the files to your project. Add your blog posts to the `posts/` directory, and create your pages with the proper Jekyll front matter (see `posts.html` for an example).
+## Todo
 
-If your site already uses Jekyll, follow these steps:
+- AddToThis
+- Ads on pages, except for main page
+- ~~Description underneath the post title + highlighting (only on index)~~
+- ~~Tag cloud~~
+- ~~Fixed navbar~~
+- ~~Disqus comments~~
+- ~~Good SEO / Meta tags (description, tags)~~~
 
-1. Replace the files in the `_includes`, `_layouts`, and `_sass` directories with those from this project.  
-2. Replace your `index.html` with the one from this project, and copy over the `posts.html` file as well.  
-3. Copy the contents of the `_config.yml` from this project in to yours, and update the necessary information.  
+## Acknowledgements
 
-## Updating Styles
-
-If you want change the CSS of the theme, you'll probably want to check out these files in the `_sass/` directory:
-
-* `base/_variables.scss`: Common values found throughout the project, including base font size, font families, colors, and more.
-* `base/_typography.scss`: Base typography values for the site (see `typography.html` for a demonstration)
-* `_layout.scss`: The primary styles for the layout and design of the theme. 
-
-### Important Variables
-
-Here are the important variables from `base/_variables.scss` you can tweak to customize the theme to your liking:
-
-* `$base-font-family`: The font-family of the body text. Make sure to `@import` any new fonts!
-* `$heading-font-family`: The font-family of the headers. Make sure to `@import` any new fonts!
-* `$base-font-size`: The base font-size. Defaults to $em-base from Bourbon (`bourbon/settings/_px-to-em.scss`).
-* `$base-font-color`: The color for the body text.
-* `$action-color`: The color for links in the body text. 
-* `$highlight-color`: The color for the footer and page headers (when no cover image provided).
-
-## Configuration
-
-All configuration options can be found in `_config.yml`. 
-
-### Site Settings
-
-* __title:__ The title for your site. Displayed in the navigation menu, the `index.html` header, and the footer.
-* __subtitle:__ The subtitle of your site. Displayed in the `index.html` header.
-* __email:__ Your email address, displayed with the Contact info in the footer.
-* __name:__ Your name. _Currently unused._
-* __descriptionL__ The description of your site. Used for search engine results and displayed in the footer.
-* __baseurl:__ The subpath of your site (e.g. /blog/).
-* __url:__ The base hostname and protocol for your site.
-* __cover:__ The relative path to your site's cover image.
-* __logo:__ The relative path to your site's logo. Used in the navigation menu instead of the title if provided.
-
-### Build Settings
-
-* __markdown:__ Markdown parsing engine. Default is kramdown.
-* __paginate:__ Number of posts to include on one page.
-* __paginate_path:__ URL structure for pages.
-
-### Archive Settings
-
-Although this theme comes with a combined, categorized archive (see `posts.html`), you can enable further archive creation thanks to [jekyll-archives][archives]. Support for category and tag archive pages is included, but you can also add your own archive pages for years, months, and days.
-
-To change archive settings, see the __jekyll-archives__ section of `_config.yml`:
-
-```yml
-jekyll-archives:
-  enabled: 
-    - categories
-    - tags
-  layout: 'archive'
-  permalinks:
-    category: '/category/:name/'
-    tag: '/tag/:name/'
-```
-
-To fully disable the archive, remove the __jekyll-archives__ section AND remove it from the __gems__ list.
-
-__NOTE:__ the Jekyll Archive gem is NOT included with GitHub pages! Disable the archive feature if you intend to deploy your site to GitHub pages.
-
-A sitemap is also generated using [jekyll-sitemap][sitemap].
-
-### Disqus Settings
-
-You can enable [Disqus][disqus] comments for you site by including one config option:
-
-* __disqus_shortname:__ Your Disqus username. If the property is set, Disqus comments will be included with your blog posts.
-
-If you want to disable Disqus for only a specific page, add __disqus_disabled: true__ to the page's front matter.
-
-### Google Analytics Settings
-
-You can enable basic [Google Analytics][ga] pageview tracking by including your site's tracking ID:
-
-* __ga_tracking_id__: The Tracking ID for your website. You can find it on your Google Analytics dashboard. If the property is set, Google Analytics will be added to the footer of each page.
-
-### Social Settings
-
-Your personal social network settings are combined with the social sharing options. In the __social__ seciton of `_config.yml`, include an entry for each network you want to include. For example:
-
-```yml
-social:
-  - name: Twitter                         # Name of the service
-    icon: twitter                  		  # Font Awesome icon to use (minus fa- prefix)
-    username: "@TheBenCentra"             # (User) Name to display in the footer link
-    url: https://twitter.com/TheBenCentra # URL of your profile (leave blank to not display in footer)
-    desc: Follow me on Twitter            # Description to display as link title, etc
-    share_url: http://twitter.com/share   # URL for sharing to the service (leave blank to disable sharing)
-    share_title: ?text=                   # Title parameter for sharing URL
-    share_link: "&amp;url="               # Link parameter for sharing URL
-```
-
-Any of the __share__ prefixed options are used in blog posts for the social share bar. The other options are used in the Contact info section of the footer.
-
-### Category Descriptions
-
-You can enhance the `posts.html` archive page with descriptions of your post categories. See the __descriptions__ section of `_config.yml`:
-
-```yml
-# Category descriptions (for archive pages)
-descriptions:
-  - cat: jekyll
-    desc: "Posts describing Jekyll setup techniques."
-```
-
-[bencentra]: http://bencentra.com
-[bourbon]: http://bourbon.io/
-[neat]: http://neat.bourbon.io/
-[bitters]: http://bitters.bourbon.io/
-[refills]: http://refills.bourbon.io/
-[fontawesome]: http://fortawesome.github.io/Font-Awesome/
-[highlightjs]: https://highlightjs.org/
-[lightbox]: http://lokeshdhakar.com/projects/lightbox2/
-[cover]: https://www.flickr.com/photos/79666107@N00/3796678503/in/photolist-6MuYfc-61Rtft-8XzPmY-a6Cozm-54eSMs-6oMJmk-aepZQq-9YkPHp-fiAEGE-dVP4Z5-oxPyJP-atKUFJ-9YHWA5-9YF2f2-9YF2gR-9YHVGN-9YHVvs-qZYYQ6-4JqP2i-a2peGy-9YHVUm-9YHVF7-9YHVCL-9YF3NK-cYteMo-aiPmb9-69dtAi-9YF21x-4aWpmn-7SLiUL-77pqVX-8vXbYv-4HGDSH-a2h5P1-8LsZrQ-9aj1ez-auPZ7q-9YHVMd-9YF2bi-9YF23D-8LpWpn-9an6KL-9YHVZL-dqZ3Cz-2GuvnX-9YHWUo-9YHVWd-p5Roh5-i1zTbv-6sYrUT
-[disqus]: https://disqus.com/
-[ga]: http://www.google.com/analytics/
-[archives]: https://github.com/jekyll/jekyll-archives
-[sitemap]: https://github.com/jekyll/jekyll-sitemap
+- [Jekyll for base theme](https://github.com/jglovier/jekyll-new)
+- [christian-fei for simple-jekyll-search](https://github.com/christian-fei/Simple-Jekyll-Search)
+- [nadjetey for gist idea](https://github.com/nadjetey/wangana)
