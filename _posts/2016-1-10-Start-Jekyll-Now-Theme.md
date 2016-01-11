@@ -3,9 +3,9 @@ layout: post
 title: Jekyll Now 테마를 적용해봤다
 ---
 
-![Jekyll Now Theme](http://i.imgur.com/YnqERc9.jpg)
-
 Jekyll과 Github Pages를 이용해서 블로그를 만들기 편하게 한 Jekyll Now 테마를 적용해봤다. 제작자가 설명한대로 PC에 Jekyll과 git를 설치하지 않고도 Jekyll 블로그를 운영할 수 있다는 것은 꽤 매력적이다. 특히 커맨드라인과 친하지 않은 사람들에게는 엄청난 장점이 될 수도 있다.
+
+![Jekyll Now Theme](http://i.imgur.com/YnqERc9.jpg)
 
 다만 테마 자체의 기능은 그리 대단하지 않다. Pagination도 안 되어 있고, 이 테마만의 특별한 기능도 없다. 디자인도 단순하다. 하지만 어쩌면 그것이 이 테마의 매력일 수도 있겠다는 생각도 든다. 아주 기본적인 구조의 테마이기 때문에 필요한 기능을 넣는 것이 어렵지 않다. 테마의 구조가 복잡하면 기능을 추가하는 것이 쉽지 않다. 먼저 복잡한 테마의 구조를 파악해야 새로운 기능을 추가할 수 있기 때문이다.
 
