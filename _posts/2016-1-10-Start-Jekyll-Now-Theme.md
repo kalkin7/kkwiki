@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Jekyll Now 테마를 적용해봤다
+excerpt: Jekyll Now 테마를 적용해봤다. 심플한 것을 좋아하는 사람들에게 알맞은 테마다.
 ---
 
 Jekyll과 Github Pages를 이용해서 블로그를 만들기 편하게 한 Jekyll Now 테마를 적용해봤다. 제작자가 설명한대로 PC에 Jekyll과 git를 설치하지 않고도 Jekyll 블로그를 운영할 수 있다는 것은 꽤 매력적이다. 특히 커맨드라인과 친하지 않은 사람들에게는 엄청난 장점이 될 수도 있다.
