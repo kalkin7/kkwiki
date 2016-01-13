@@ -7,7 +7,7 @@ var minifyCss = require('gulp-minify-css');
 gulp.task('penthouse', function() {
     penthouse({
         url : 'http://localhost:4000/index.html',
-        css : '_site/style.css',
+        css : '_site/assets/style.css',
         width: 800, // viewport width
         height: 600 // viewport height
     }, function(err, criticalCss) {
