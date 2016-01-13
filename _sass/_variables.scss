@@ -15,9 +15,9 @@ $lightGray: #eee;
 $white: #fff;
 
 // Font stacks
-$helvetica: "Open Sans", "NanumBarunGothic", "NanumGothic", "Malgun Gothic", "Helvetica Neue",Helvetica, Arial, sans-serif;
-$helveticaNeue: "Open Sans", "NanumBarunGothic", "NanumGothic", "Malgun Gothic", "Helvetica Neue", Helvetica, Arial, sans-serif;
-$georgia: "Open Sans", "NanumBarunGothic", "NanumGothic", "Malgun Gothic", "Helvetica Neue", Georgia, serif;
+$helvetica: "Spoqa Han Sans", "Open Sans", "NanumBarunGothic", "NanumGothic", "Malgun Gothic", "Helvetica Neue",Helvetica, Arial, sans-serif;
+$helveticaNeue: "Spoqa Han Sans", "Open Sans", "NanumBarunGothic", "NanumGothic", "Malgun Gothic", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$georgia: "Spoqa Han Sans", "Open Sans", "NanumBarunGothic", "NanumGothic", "Malgun Gothic", "Helvetica Neue", Georgia, sans-serif;
 
 // Mobile breakpoints
 @mixin mobile {
