@@ -54,7 +54,13 @@ baseurl: ""
 #
 
 markdown: kramdown
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+
 highlighter: rouge
+
 permalink: /:title/
 
 # The release of Jekyll Now that you're using
@@ -71,6 +77,6 @@ gems:
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 
 # Exclude these files from your production _site
-exclude: ['Gemfile', 'Gemfile.lock', 'LICENSE', 'README.md', 'CNAME', 'node_modules' ]
+exclude: ['Gemfile', 'Gemfile.lock', 'LICENSE', 'README.md', 'CNAME', 'node_modules', 'git_blog_update.bat', 'git_push.bat', 'jekyll watch.bat', 'gulpfile.js', 'LICENSE' ]
 
 encoding: utf-8
