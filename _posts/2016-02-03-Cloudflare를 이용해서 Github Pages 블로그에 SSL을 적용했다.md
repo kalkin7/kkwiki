@@ -2,6 +2,8 @@
 layout: post
 title: Cloudflare를 이용해서 Github Pages 블로그에 SSL을 적용했다
 excerpt: Cloudflare에서 간단한 설정을 하는 것만으로 Github Pages에 만든 내 블로그에 SSL을 적용할 수 있었다.
+permalink: ssl-cloudflare
+
 ---
 
 이후에 나올 크롬에서는 SSL을 적용하지 않은 사이트를 안전하지 않은 사이트로 표기한다고 한다.[^1] 이미 전부터 구글은 SSL을 적용한 사이트의 구글 검색 랭킹을 상향하는 작업을 하고 있었다.[^2] 그래서 시험삼아 이 블로그에도 SSL을 적용해봤다. 
